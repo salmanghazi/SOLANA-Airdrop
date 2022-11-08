@@ -1,0 +1,15 @@
+{
+  "name": "airdrop-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.j"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@solana/web3.js": "^1.66.2",
+    "nodemon": "^2.0.20"
+  }
+}
